@@ -1,0 +1,4 @@
+module "myappmodule" {
+    source = "./module"
+  
+}
